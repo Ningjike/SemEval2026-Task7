@@ -1,0 +1,1 @@
+# SemEval-2026-Task7-Everyday-Knowledge-Across-Diverse-Languages-and-Cultures
