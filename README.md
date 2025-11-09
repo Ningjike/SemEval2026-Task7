@@ -1,4 +1,4 @@
-# SemEval-2026-Task7-Everyday-Knowledge-Across-Diverse-Languages-and-Cultures
+# SemEval2026-Task7-Everyday-Knowledge-Across-Diverse-Languages-and-Cultures
 ## Data
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e4a5f4b9-d4ee-48e3-99c2-714d9b255d62" />
 
@@ -41,6 +41,7 @@
  ### Instruction Learning
  - google/gemma-3n-E4B-it
  - 部分回答
-<img width="450" height="1000" alt="image" src="https://github.com/user-attachments/assets/332eecc2-df79-4ebd-811d-0af0fdfa755c" />
+<img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/a2c4fdfb-a794-430c-949f-1a95e8057138" />
+
 
   
