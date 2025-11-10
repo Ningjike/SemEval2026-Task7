@@ -4,44 +4,43 @@
 
 ## Track1:SAQ
  包含 26 种语言，30对语言与地区，对于以特定语言提出的问题，会用该语言回答
- ```
- LANG_RE_INFO = {
-    "en-US": {"lang_name": "English", "region_name": "United States"},
-    "en-GB": {"lang_name": "English", "region_name": "United Kingdom"},
-    "en-CN": {"lang_name": "English", "region_name": "China"},
-    "zh-CN": {"lang_name": "Chinese", "region_name": "China"},
-    "en-ES": {"lang_name": "English", "region_name": "Spain"},
-    "es-ES": {"lang_name": "Spanish", "region_name": "Spain"},
-    "en-ID": {"lang_name": "English", "region_name": "Indonesia"},
-    "id-ID": {"lang_name": "Indonesian", "region_name": "Indonesia"},
-    "en-MX": {"lang_name": "English", "region_name": "Mexico"},
-    "es-MX": {"lang_name": "Spanish", "region_name": "Mexico"},
-    "en-KR": {"lang_name": "English", "region_name": "South Korea"},
-    "ko-KR": {"lang_name": "Korean", "region_name": "South Korea"},
-    "en-GR": {"lang_name": "English", "region_name": "Greece"},
-    "el-GR": {"lang_name": "Greek", "region_name": "Greece"},
-    "en-IR": {"lang_name": "English", "region_name": "Iran"},
-    "fa-IR": {"lang_name": "Persian", "region_name": "Iran"},
-    "en-DZ": {"lang_name": "English", "region_name": "Algeria"},
-    "ar-DZ": {"lang_name": "Arabic", "region_name": "Algeria"},
-    "en-AZ": {"lang_name": "English", "region_name": "Azerbaijan"},
-    "az-AZ": {"lang_name": "Azerbaijani", "region_name": "Azerbaijan"},
-    "en-KP": {"lang_name": "English", "region_name": "North Korea"},
-    "ko-KP": {"lang_name": "Korean", "region_name": "North Korea"},
-    "en-JB": {"lang_name": "English", "region_name": "West Java, Indonesia"},
-    "su-JB": {"lang_name": "Sundanese", "region_name": "West Java, Indonesia"},
-    "en-AS": {"lang_name": "English", "region_name": "Assam, India"},
-    "as-AS": {"lang_name": "Assamese", "region_name": "Assam, India"},
-    "en-NG": {"lang_name": "English", "region_name": "Northern Nigeria"},
-    "ha-NG": {"lang_name": "Hausa", "region_name": "Northern Nigeria"},
-    "en-ET": {"lang_name": "English", "region_name": "Ethiopia"},
-    "am-ET": {"lang_name": "Amharic", "region_name": "Ethiopia"},
-}
- ```
+ 
+| Code     | Language (Region)                | Code     | Language (Region)                | Code     | Language (Region)                | Code     | Language (Region)                |
+|----------|----------------------------------|----------|----------------------------------|----------|----------------------------------|----------|----------------------------------|
+| ar-DZ    | Arabic (Algeria)                 | am-ET    | Amharic (Ethiopia)               | ha-NG    | Hausa (Northern Nigeria)         | as-AS    | Assamese (Assam, India)          |
+| az-AZ    | Azerbaijani (Azerbaijan)         | zh-CN    | Chinese (China)                  | id-ID    | Indonesian (Indonesia)           | su-JB    | Sundanese (West Java, Indonesia) |
+| fa-IR    | Persian/Farsi (Iran)             | ko-KP    | Korean (North Korea)             | ko-KR    | Korean (South Korea)             | el-GR    | Greek (Greece)                   |
+| en-GB    | English (United Kingdom)         | en-US    | English (United States)          | es-ES    | Spanish (Spain)                  | es-MX    | Spanish (Mexico)                 |
+| ar-EG    | Arabic (Egypt)                   | ar-MA    | Arabic (Morocco)                 | ar-SA    | Arabic (Saudi Arabia)            | ja-JP    | Japanese (Japan)                 |
+|    \     | Thai (Thailand)                  |    \     | Bengali (India)                  | tl-PH    | Tagalog (Philippines)            | ta-LK    | Tamil (Sri Lanka)                |
+| ta-SG    | Tamil (Singapore)                | ms-SG    | Malay (Singapore)                | zh-SG    | Singaporean Mandarin (Singapore) |     \    | Taiwanese Mandarin (Taiwan)      |
+| en-AU    | English (Australia)              | es-EC    | Spanish (Ecuador)                | eu-ES    | Basque (Basque Country, Spain)   | bg-BG    | Bulgarian (Bulgaria)             |
+| fr-FR    | French (France)                  | ga-IE    | Irish (Ireland)                  | sv-SE    | Swedish (Sweden)                 | cy-GB    | Welsh (Wales, UK)                |
+
  ### Instruction Learning
- - google/gemma-3n-E4B-it
+ ## google/gemma-3n-E4B-it
  - 部分回答
 <img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/a2c4fdfb-a794-430c-949f-1a95e8057138" />
+
+ ## llama3
+- 先翻译为English，之后调用llama3模型处理，最后再翻译为指定语言
+- **翻译过程**：选择采用Qwen-MT-turbo进行翻译，可以在[官网](https://bailian.console.aliyun.com)进行查看API调用方法，具体代码可以参考translate_touyi.py
+- **模型调用过程**：选择采用Ollama调用本地部署模型<img width="500" height="39" alt="image" src="https://github.com/user-attachments/assets/3eaa888e-571d-4eda-b3c0-0308d266b1cb" />
+```
+    prompt = f"""### Instruction: You are a local resident of {country_name}. Answer the following question in English, concisely and with cultural accuracy. Provide only the essential answer without any explanation, introduction, or punctuation.
+                 ### Question: {question_en}
+                 ### Response:"""
+    
+    response = ollama.chat(
+        model=model,
+        messages=[{"role": "user", "content": prompt}],
+        options={"temperature": 0.1}
+    )
+    ans = response['message']['content'].strip()
+```
+- 部分回答：
+  
+
 
 
   
