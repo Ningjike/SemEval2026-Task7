@@ -22,6 +22,10 @@
  - 部分回答
 <img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/a2c4fdfb-a794-430c-949f-1a95e8057138" />
 
+- 修改prompt后，要求回答精炼：
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/2ffca717-a961-4059-a458-fa01f294e1c2" />
+
+
  ## llama3
 - 先翻译为English，之后调用llama3模型处理，最后再翻译为指定语言
 - **翻译过程**：选择采用Qwen-MT-turbo进行翻译，可以在[官网](https://bailian.console.aliyun.com)进行查看API调用方法，具体代码可以参考translate_touyi.py
