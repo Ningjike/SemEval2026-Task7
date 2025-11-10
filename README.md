@@ -25,7 +25,8 @@
  ## llama3
 - 先翻译为English，之后调用llama3模型处理，最后再翻译为指定语言
 - **翻译过程**：选择采用Qwen-MT-turbo进行翻译，可以在[官网](https://bailian.console.aliyun.com)进行查看API调用方法，具体代码可以参考translate_touyi.py
-- **模型调用过程**：选择采用Ollama调用本地部署模型<img width="500" height="39" alt="image" src="https://github.com/user-attachments/assets/3eaa888e-571d-4eda-b3c0-0308d266b1cb" />
+- **模型调用过程**：选择采用Ollama调用本地部署模型，同时略修改了prompt，使其生成回答更加简练
+- <img width="500" height="39" alt="image" src="https://github.com/user-attachments/assets/3eaa888e-571d-4eda-b3c0-0308d266b1cb" />
 ```
     prompt = f"""### Instruction: You are a local resident of {country_name}. Answer the following question in English, concisely and with cultural accuracy. Provide only the essential answer without any explanation, introduction, or punctuation.
                  ### Question: {question_en}
@@ -40,7 +41,8 @@
 ```
 - 部分回答：
   <img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/a90ee88a-c1a2-429a-a8a4-d6471ddd9e4e" />
-  具体结果可以查看
+  具体结果可以查看instruction_learning/track_1_saq/answers.tsv
+  
 
 
 
