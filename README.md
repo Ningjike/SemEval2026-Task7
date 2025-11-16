@@ -66,14 +66,19 @@
 ### 结果：
 - 拼接question与option：
   1. 使用轴枢语言：
+     
      <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c040aea0-fcd8-413e-bae6-d66e59d099b5" />
 
   2. 不使用轴枢语言：
      
+     <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/4bc3c50e-83cc-4d34-a035-4902d52da7cd" />
+
 - 直接进行多选指令学习：
+  
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/743fc693-b3ce-44aa-9ab4-3ead1a3e7df2" />
 
 - 上下文学习：
+  
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8ef0a9b0-d775-42bc-9291-88a2cf572234" />
 
  
