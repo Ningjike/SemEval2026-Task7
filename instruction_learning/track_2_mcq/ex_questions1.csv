@@ -1,0 +1,593 @@
+id	lang_region	option_letter	input_text
+ms-SG_001	ms-SG	A	The answer to 'What is the common acronym for public housing flats where most Singaporeans live?' is: DBS.
+ms-SG_001	ms-SG	B	The answer to "What is the common acronym for public housing flats where most Singaporeans live?" is: HPB.
+ms-SG_001	ms-SG	C	The answer to 'What is the common acronym for public housing flats where most Singaporeans live?' is: HDB.
+ms-SG_001	ms-SG	D	The answer to "What is the common acronym for public housing flats where most Singaporeans live?" is: SAF.
+ms-SG_002	ms-SG	A	The answer to "Which political party has been Singapore's ruling party since 1959?" is: Workers' Party (WP).
+ms-SG_002	ms-SG	B	The answer to 'Which political party has been Singapore's ruling party since 1959?' is: the People's Action Party (PAP).
+ms-SG_002	ms-SG	C	The answer to 'Which political party has been Singapore's ruling party since 1959?' is: The Singapore Democratic Party (SDP).
+ms-SG_002	ms-SG	D	The answer to 'Which political party has been Singapore's ruling party since 1959?' is: the Singapore People's Party (PSP).
+ms-SG_003	ms-SG	A	The answer to 'What is Singapore's official mascot, a mythical creature with the head of a lion and the body of a fish?' is: Merlion.
+ms-SG_003	ms-SG	B	The answer to 'What is Singapore's official mascot, a mythical creature with the head of a lion and the body of a fish?' is: The Courtesy Lion.
+ms-SG_003	ms-SG	C	The answer to 'What is Singapore's official mascot, a mythical creature with the head of a lion and the body of a fish?' is: the Asian otter.
+ms-SG_003	ms-SG	D	The answer to 'What is Singapore's official mascot, a mythical creature with the head of a lion and the body of a fish?' is: Vanda Miss Joaquim.
+ms-SG_004	ms-SG	A	The answer to 'What is the name of Singapore's main international airport, which is frequently voted as one of the best airports in the world?' is: Seletar Airport.
+ms-SG_004	ms-SG	B	The answer to "What is the name of Singapore's main international airport, which is frequently voted as one of the best airports in the world?" is: Changi Airport.
+ms-SG_004	ms-SG	C	The answer to "What is the name of Singapore's main international airport, which is frequently voted as one of the best airports in the world?" is: Paya Lebar Airport.
+ms-SG_004	ms-SG	D	The answer to "What is the name of Singapore's main international airport, which is frequently voted as one of the best airports in the world?" is: Marina Bay Airport.
+ms-SG_005	ms-SG	A	The answer to "Singapore celebrates National Day every year in which month?" is: February.
+ms-SG_005	ms-SG	B	The answer to "Singapore celebrates National Day every year in which month?" is: July.
+ms-SG_005	ms-SG	C	The answer to "Singapore celebrates National Day every year in which month?" is: September.
+ms-SG_005	ms-SG	D	The answer to "Singapore celebrates National Day every year in which month?" is: August.
+ms-SG_006	ms-SG	A	Which iconic Singaporean arts center is better known as the "big durian"? Marina Bay Sands
+ms-SG_006	ms-SG	B	Which iconic Singaporean arts center is better known as the "big durian"? The Arts House
+ms-SG_006	ms-SG	C	Which iconic Singaporean arts center is better known as the "big durian"? Victoria Theatre
+ms-SG_006	ms-SG	D	Which iconic Singaporean arts center is better known as the "big durian"? The Esplanade
+ms-SG_007	ms-SG	A	The answer to 'What is Singapore's official currency?' is: Ringgit.
+ms-SG_007	ms-SG	B	The answer to 'What is Singapore's official currency?' is: Baht.
+ms-SG_007	ms-SG	C	The answer to 'What is Singapore's official currency?' is: Dollar.
+ms-SG_007	ms-SG	D	The answer to 'What is Singapore's official currency?' is: Rupiah.
+ta-SG_008	ta-SG	A	The answer to "What is the common abbreviation for public housing units where most Singaporeans live?" is: DBS.
+ta-SG_008	ta-SG	B	The answer to "What is the common abbreviation for public housing units where most Singaporeans live?" is: HPB.
+ta-SG_008	ta-SG	C	The answer to "What is the common abbreviation for public housing units where most Singaporeans live?" is: HDB.
+ta-SG_008	ta-SG	D	The answer to "What is the common abbreviation for public housing units where most Singaporeans live?" is: SAF.
+ta-SG_009	ta-SG	A	The answer to "Which political party has been Singapore's ruling party since 1959?" is: Workers' Party (WP).
+ta-SG_009	ta-SG	B	The answer to "Which political party has been Singapore's ruling party since 1959?" is: The People's Action Party (PAP).
+ta-SG_009	ta-SG	C	The answer to "Which political party has been Singapore's ruling party since 1959?" is: Singapore Democratic Party (SDP).
+ta-SG_009	ta-SG	D	The answer to "Which political party has been Singapore's ruling party since 1959?" is: the Singapore People's Action Party (PSP).
+ta-SG_010	ta-SG	A	The answer to "What is the official symbol of Singapore, a mythical creature with the head of a lion and the body of a fish?" is: The Merlion.
+ta-SG_010	ta-SG	B	The answer to "What is the official emblem of Singapore, a mythical creature with the head of a lion and the body of a fish?" is: Singa the Courtesy Lion.
+ta-SG_010	ta-SG	C	The answer to "What is the official emblem of Singapore, a mythical creature with the head of a lion and the body of a fish?" is: The Asian Otter.
+ta-SG_010	ta-SG	D	The answer to "What is the official emblem of Singapore, a mythical creature with the head of a lion and the body of a fish?" is: Vanda Miss Joaquim.
+ta-SG_011	ta-SG	A	The answer to "What is the name of Singapore's premier international airport, frequently ranked among the world's best?" is: Seletar Airport.
+ta-SG_011	ta-SG	B	The answer to "What is the name of Singapore's premier international airport, frequently ranked among the world's best?" is: Changi Airport.
+ta-SG_011	ta-SG	C	The answer to "What is the name of Singapore's primary international airport, frequently ranked among the world's best?" is: Paya Lebar Airport.
+ta-SG_011	ta-SG	D	The answer to "What is the name of Singapore's premier international airport, frequently ranked among the world's best?" is: Marina Bay Airport.
+ta-SG_012	ta-SG	A	The answer to "In which month does Singapore celebrate its National Day every year?" is: February.
+ta-SG_012	ta-SG	B	The answer to "In which month does Singapore celebrate its National Day every year?" is: July.
+ta-SG_012	ta-SG	C	The answer to "In which month does Singapore celebrate its National Day each year?" is: September.
+ta-SG_012	ta-SG	D	The answer to "In which month does Singapore celebrate its National Day every year?" is: August.
+ta-SG_013	ta-SG	A	The answer to "What is the name of Singapore's iconic arts center, commonly referred to as 'Big Durians' in colloquial speech?" is: Marina Bay Sands.
+ta-SG_013	ta-SG	B	The answer to "What is the name of Singapore's iconic arts center, commonly referred to as 'Big Durians' in colloquial speech?" is: The Arts House.
+ta-SG_013	ta-SG	C	What is the name of Singapore's iconic arts center, commonly referred to as "Big Durians"? It's the Victoria Theatre.
+ta-SG_013	ta-SG	D	What is the name of Singapore's iconic arts center, commonly referred to as "Big Durians" in colloquial speech? It’s The Esplanade.
+ta-SG_014	ta-SG	A	The answer to "What is Singapore's official currency?" is: the Ringgit.
+ta-SG_014	ta-SG	B	The answer to "What is Singapore's official currency?" is: the Baht.
+ta-SG_014	ta-SG	C	The answer to "What is Singapore's official currency?" is: Silver (Dollar).
+ta-SG_014	ta-SG	D	The answer to "What is Singapore's official currency?" is: the Rupiah.
+zh-SG_015	zh-SG	A	What is the common abbreviation for public housing, where most Singaporeans live? DBS
+zh-SG_015	zh-SG	B	What is the common abbreviation for public housing, where most Singaporeans live? HPB
+zh-SG_015	zh-SG	C	What is the common abbreviation for public housing, where most Singaporeans live? HDB
+zh-SG_015	zh-SG	D	What is the common abbreviation for public housing, where most Singaporeans live? SAF
+zh-SG_016	zh-SG	A	Since 1959, which party has been Singapore's ruling party? The Workers' Party (WP)
+zh-SG_016	zh-SG	B	Since 1959, which political party has been Singapore's ruling party? The People's Action Party (PAP)
+zh-SG_016	zh-SG	C	Since 1959, which political party has been Singapore's ruling party? The Singapore Democratic Party (SDP)
+zh-SG_016	zh-SG	D	Since 1959, which political party has been Singapore's ruling party? The Progress Singapore Party (PSP)
+zh-SG_017	zh-SG	A	What is Singapore's official mascot? It’s a mysterious creature with the head of a lion and the body of a fish—the Merlion.
+zh-SG_017	zh-SG	B	What is Singapore's official mascot? It’s a mysterious creature with the head of a lion and the body of a fish—Singa the Courtesy Lion.
+zh-SG_017	zh-SG	C	What is Singapore's official mascot? It’s a mysterious creature with the head of a lion and the body of a fish—the Asian Otter.
+zh-SG_017	zh-SG	D	What is Singapore's official mascot? It’s a mysterious creature with the head of a lion and the body of a fish: the Vanda Miss Joaquim orchid.
+zh-SG_018	zh-SG	A	Which is Singapore's main international airport? It’s frequently ranked among the world’s best airports. Seletar Airport
+zh-SG_018	zh-SG	B	Which is Singapore's main international airport? It’s frequently ranked among the world’s best airports: Changi Airport.
+zh-SG_018	zh-SG	C	Which is Singapore's main international airport? It’s frequently ranked among the world’s best airports. Paya Lebar Airport
+zh-SG_018	zh-SG	D	Which is Singapore's main international airport? It’s frequently ranked among the world’s best airports: Marina Bay Airport.
+zh-SG_019	zh-SG	A	What month is Singapore's National Day celebrated each year? February.
+zh-SG_019	zh-SG	B	What month is Singapore's National Day celebrated each year? July.
+zh-SG_019	zh-SG	C	What month is Singapore's National Day each year? September.
+zh-SG_019	zh-SG	D	What month is Singapore's National Day celebrated each year? August.
+zh-SG_020	zh-SG	A	Which iconic art center in Singapore is colloquially known as the "Big Durian"? Marina Bay Sands
+zh-SG_020	zh-SG	B	Which iconic art center in Singapore is colloquially known as "The Big Durian"? The Arts House at the Old Parliament Building
+zh-SG_020	zh-SG	C	Which iconic art center in Singapore is colloquially known as the "Big Durian"? Victoria Theatre
+zh-SG_020	zh-SG	D	Which iconic art center in Singapore is colloquially known as the "Big Durian"? The Esplanade.
+zh-SG_021	zh-SG	A	What is Singapore's official currency? The Ringgit
+zh-SG_021	zh-SG	B	What is Singapore's official currency? Thai Baht
+zh-SG_021	zh-SG	C	What is Singapore's official currency? The dollar.
+zh-SG_021	zh-SG	D	What is Singapore's official currency? The Rupiah.
+es-EC_022	es-EC	A	The answer to 'What is the most populous city in Ecuador?' is: Quito.
+es-EC_022	es-EC	B	The answer to "What is the most populous city in Ecuador?" is: Cuenca.
+es-EC_022	es-EC	C	The answer to 'What is the most populous city in Ecuador?' is: Guayaquil.
+es-EC_022	es-EC	D	The answer to "What is the most populous city in Ecuador?" is: Ambato.
+es-EC_023	es-EC	A	The answer to 'How many provinces does Ecuador have?' is: 20.
+es-EC_023	es-EC	B	The answer to 'How many provinces does Ecuador have?' is: 22.
+es-EC_023	es-EC	C	The answer to 'How many provinces does Ecuador have?' is: 24.
+es-EC_023	es-EC	D	The answer to 'How many provinces does Ecuador have?' is: 26.
+es-EC_024	es-EC	A	The answer to "What is the highest point in Ecuador and the closest to outer space?" is: Cotopaxi.
+es-EC_024	es-EC	B	The answer to "What is the highest point in Ecuador and the closest to outer space?" is: Cayambe.
+es-EC_024	es-EC	C	The answer to "What is the highest point in Ecuador and the closest to outer space?" is: Chimborazo.
+es-EC_024	es-EC	D	The answer to 'What is the highest point in Ecuador and the closest to outer space?' is: Antisana.
+es-EC_025	es-EC	A	The answer to "What name does Ecuador receive due to its geographical and cultural diversity?" is: The Country of Volcanoes.
+es-EC_025	es-EC	B	The answer to "What name does Ecuador receive due to its geographical and cultural diversity?" is: The Country of the Four Worlds.
+es-EC_025	es-EC	C	The answer to 'What name does Ecuador receive due to its geographical and cultural diversity?' is: The Middle of the World.
+es-EC_025	es-EC	D	The answer to "What name does Ecuador receive due to its geographical and cultural diversity?" is: The Heart of South America.
+es-EC_026	es-EC	A	The answer to 'What has been Ecuador's official currency since the year 2000?' is: the Sucre.
+es-EC_026	es-EC	B	The answer to 'What is the official currency of Ecuador since the year 2000?' is: Ecuadorian peso.
+es-EC_026	es-EC	C	The answer to 'What is the official currency of Ecuador since the year 2000?' is: U.S. dollar.
+es-EC_026	es-EC	D	The answer to 'What is the official currency of Ecuador since 2000?' is: Nuevo Sol.
+es-EC_027	es-EC	A	The answer to "Which Ecuadorian place is famous for its biodiversity and for having inspired Charles Darwin's theory of evolution?" is: Amazonia.
+es-EC_027	es-EC	B	The answer to 'Which Ecuadorian place is famous for its biodiversity and for having inspired Charles Darwin’s theory of evolution?' is: Galapagos Islands.
+es-EC_027	es-EC	C	The answer to 'Which Ecuadorian place is famous for its biodiversity and for having inspired Charles Darwin's theory of evolution?' is: Isla de la Plata.
+es-EC_027	es-EC	D	The answer to 'Which Ecuadorian place is famous for its biodiversity and for having inspired Charles Darwin's theory of evolution?' is: Isla Puná.
+es-EC_028	es-EC	A	The answer to 'Which Ecuadorian city was declared a Cultural Heritage of Humanity by UNESCO in 1978?' is: Guayaquil.
+es-EC_028	es-EC	B	The answer to 'Which Ecuadorian city was declared a Cultural Heritage of Humanity by UNESCO in 1978?' is: Cuenca.
+es-EC_028	es-EC	C	The answer to 'Which Ecuadorian city was declared a Cultural Heritage of Humanity by UNESCO in 1978?' is: Quito.
+es-EC_028	es-EC	D	The answer to 'Which Ecuadorian city was declared a Cultural Heritage of Humanity by UNESCO in 1978?' is: Loja.
+es-EC_029	es-EC	A	The answer to 'Which Ecuadorian athlete won the country's first Olympic gold medal?' is: Richard Carapaz.
+es-EC_029	es-EC	B	The answer to "Which Ecuadorian athlete won the country's first Olympic gold medal?" is: Jefferson Pérez.
+es-EC_029	es-EC	C	The answer to "Which Ecuadorian athlete won the country's first Olympic gold medal?" is: Neisi Dajomes.
+es-EC_029	es-EC	D	The answer to "Which Ecuadorian athlete won the country's first Olympic gold medal?" is: Andrés Gómez.
+en-GB_030	en-GB	A	The answer to 'Which of these family holiday destinations is located in Cumbria?' is: Ben Nevis.
+en-GB_030	en-GB	B	The answer to 'Which of these family holiday destinations is located in Cumbria?' is: The Lake District.
+en-GB_030	en-GB	C	The answer to 'Which of these family holiday destinations is located in Cumbria?' is: Loch Ness.
+en-GB_030	en-GB	D	The answer to 'Which of these family holiday destinations is located in Cumbria?' is: Snowdonia.
+en-GB_031	en-GB	A	The answer to 'What is the name of Prince Harry’s wife?' is: Charlotte.
+en-GB_031	en-GB	B	The answer to 'What is the name of Prince Harry’s wife?' is: Madeline.
+en-GB_031	en-GB	C	The answer to 'What is the name of Prince Harry’s wife?' is: Meghan.
+en-GB_031	en-GB	D	The answer to 'What is the name of Prince Harry’s wife?' is: Chloe.
+en-GB_032	en-GB	A	The answer to 'Which kids show has a blue boat as its symbol?' is: Octonauts.
+en-GB_032	en-GB	B	The answer to 'Which kids show has a blue boat as its symbol?' is: Grandpa in my Pocket.
+en-GB_032	en-GB	C	The answer to 'Which kids show has a blue boat as its symbol?' is: Jack and the Neverland Pirates.
+en-GB_032	en-GB	D	The answer to 'Which kids show has a blue boat as its symbol?' is: Blue Peter.
+en-GB_033	en-GB	A	The answer to 'In which TV show would you expect to find Daleks and Cybermen?' is: Doctor Who.
+en-GB_033	en-GB	B	The answer to 'In which TV show would you expect to find Daleks and Cybermen?' is: Humans.
+en-GB_033	en-GB	C	The answer to 'In which TV show would you expect to find Daleks and Cybermen?' is: Thunderbirds.
+en-GB_033	en-GB	D	The answer to 'In which TV show would you expect to find Daleks and Cybermen?' is: Emmerdale.
+en-GB_034	en-GB	A	The answer to 'Which significant historical event took place in 1066?' is: Norman conquest.
+en-GB_034	en-GB	B	The answer to 'Which significant historical event took place in 1066?' is: Great fire of London.
+en-GB_034	en-GB	C	The answer to 'Which significant historical event took place in 1066?' is: Execution of Charles I.
+en-GB_034	en-GB	D	The answer to 'Which significant historical event took place in 1066?' is: Death of Henry I.
+zh-CN_035	zh-CN	A	1. What is China's National Day? January 1
+zh-CN_035	zh-CN	B	1. What is China's National Day? May 1
+zh-CN_035	zh-CN	C	1. What is China's National Day? July 1
+zh-CN_035	zh-CN	D	1. What is China's National Day? October 1st
+zh-CN_036	zh-CN	A	2. Which animal is known as China's "national treasure"? The giant panda
+zh-CN_036	zh-CN	B	2. Which animal is known as China's "national treasure"? The golden snub-nosed monkey
+zh-CN_036	zh-CN	C	2. Which animal is known as China's "national treasure"? The Tibetan antelope
+zh-CN_036	zh-CN	D	2. Which animal is known as China's "national treasure"? The White Pheasant
+zh-CN_037	zh-CN	A	3. What is the capital of China? Shanghai
+zh-CN_037	zh-CN	B	3. What is the capital of China? Beijing
+zh-CN_037	zh-CN	C	3. What is the capital of China? Shenzhen
+zh-CN_037	zh-CN	D	3. What is the capital of China? Chongqing
+zh-CN_038	zh-CN	A	4. China's "Dragon Boat Festival" is traditionally held to commemorate which ancient literary figure? Du Mu
+zh-CN_038	zh-CN	B	4. China's "Dragon Boat Festival" is traditionally held to commemorate which ancient literary figure? Su Shi
+zh-CN_038	zh-CN	C	4. China's "Dragon Boat Festival" is traditionally held to commemorate which ancient literary figure? Qu Yuan
+zh-CN_038	zh-CN	D	4. Which ancient literary figure is China's "Dragon Boat Festival" traditionally held to commemorate? Bai Juyi
+zh-CN_039	zh-CN	A	5. Which river is known as China's "Mother River"? The Yellow River
+zh-CN_039	zh-CN	B	5. Which river is known as China's "Mother River"? The Yangtze River
+zh-CN_039	zh-CN	C	5. Which river is known as China's "Mother River"? The Pearl River
+zh-CN_039	zh-CN	D	5. Which river is known as China's "Mother River"? The Huangpu River
+es-ES_040	es-ES	A	The answer to "Who is the president of Spain?" is: José Luis Rodríguez Zapatero.
+es-ES_040	es-ES	B	The answer to "Who is the president of Spain?" is: Mariano Rajoy.
+es-ES_040	es-ES	C	The answer to "Who is the president of Spain?" is: Pedro Sánchez.
+es-ES_040	es-ES	D	The answer to "Who is the president of Spain?" is: Alberto Núñez Feijó.
+es-ES_041	es-ES	A	The answer to 'What is the most popular sport in Spain?' is: Soccer.
+es-ES_041	es-ES	B	The answer to "What is the most popular sport in Spain?" is: Basketball.
+es-ES_041	es-ES	C	The answer to 'What is the most popular sport in Spain?' is: Cricket.
+es-ES_041	es-ES	D	The answer to "What is the most popular sport in Spain?" is: Golf.
+es-ES_042	es-ES	A	The answer to 'What is the most internationally recognized Spanish literary work?' is: El cantar del Mío Cid.
+es-ES_042	es-ES	B	The answer to "What is the most internationally recognized Spanish literary work?" is: Don Quixote de la Mancha.
+es-ES_042	es-ES	C	The answer to 'What is the most internationally recognized Spanish literary work?' is: The Adventures of Huckleberry Finn.
+es-ES_042	es-ES	D	The answer to "What is the most internationally recognized Spanish literary work?" is: The Three Musketeers.
+es-ES_043	es-ES	A	The answer to "Why is the city of Segovia known for its Roman monument?" is: La Giralda.
+es-ES_043	es-ES	B	The answer to "Why is the city of Segovia known for a Roman monument?" is: The Alhambra Palace.
+es-ES_043	es-ES	C	The answer to "Why is the city of Segovia known for a Roman monument?" is: The Fountain of Cibeles.
+es-ES_043	es-ES	D	The answer to "Why is the city of Segovia known for a Roman monument?" is: The aqueduct.
+es-ES_044	es-ES	A	The answer to 'Where were the 1992 Olympic Games held in Spain?' is: Madrid.
+es-ES_044	es-ES	B	The answer to "Where were the 1992 Olympic Games held in Spain?" is: Seville.
+es-ES_044	es-ES	C	The answer to 'Where were the 1992 Olympic Games held in Spain?' is: Barcelona.
+es-ES_044	es-ES	D	The answer to "Where were the 1992 Olympic Games held in Spain?" is: Cádiz.
+es-MX_045	es-MX	A	The answer to 'What are the colors of the country's flag?' is: Green, Yellow, Red.
+es-MX_045	es-MX	B	The answer to 'What are the colors of the country's flag?' is: Green, White, Red.
+es-MX_045	es-MX	C	The answer to 'What are the colors of the country's flag?' is: White, Red, Brown.
+es-MX_045	es-MX	D	The answer to 'What are the colors of the country's flag?' is: Red, Orange, Black.
+es-MX_046	es-MX	A	The answer to "Who was the author of the national anthem?" is: Francisco I. Madero.
+es-MX_046	es-MX	B	The answer to 'Who was the author of the national anthem?' is: Miguel Hidalgo.
+es-MX_046	es-MX	C	The answer to "Who was the author of the national anthem?" is: Jaime Nunó.
+es-MX_046	es-MX	D	The answer to 'Who was the author of the national anthem?' is: Benito Juárez.
+es-MX_047	es-MX	A	The answer to "What is the country's capital?" is: Monterrey.
+es-MX_047	es-MX	B	The answer to "What is the country's capital?" is: Guadalajara.
+es-MX_047	es-MX	C	The answer to 'What is the country's capital?' is: Querétaro.
+es-MX_047	es-MX	D	The answer to 'What is the country's capital?' is: Mexico City.
+es-MX_048	es-MX	A	The answer to "Who is the country's president?" is: Felipe Calderón Hinojosa.
+es-MX_048	es-MX	B	The answer to "Who is the country's president?" is: Andrés Manuel López Obrador.
+es-MX_048	es-MX	C	The answer to "Who is the country's president?" is: Ciro Gómez Leiva.
+es-MX_048	es-MX	D	The answer to "Who is the country's president?" is: Enrique Peña Nieto.
+es-MX_049	es-MX	A	The answer to 'What is the most typical street food in the country?' is: Tuna.
+es-MX_049	es-MX	B	The answer to 'What is the most typical street food in the country?' is: Hot Dogs.
+es-MX_049	es-MX	C	The answer to "What is the most typical street food in the country?" is: Tacos.
+es-MX_049	es-MX	D	The answer to 'What is the most typical street food in the country?' is: Paella.
+id-ID_050	id-ID	A	The answer to 'Who was the first president of Indonesia?' is: Soekarno.
+id-ID_050	id-ID	B	The answer to 'Who was Indonesia's first president?' is: Megawati Soekarnoputri.
+id-ID_050	id-ID	C	The answer to 'Who was the first president of Indonesia?' is: Mohammad Hatta.
+id-ID_050	id-ID	D	The answer to 'Who was the first president of Indonesia?' is: Soeharto.
+id-ID_051	id-ID	A	The answer to 'On what date did Indonesia proclaim its independence?' is: August 15, 1948.
+id-ID_051	id-ID	B	The answer to 'On what date did Indonesia proclaim its independence?' is: August 17, 1929.
+id-ID_051	id-ID	C	The answer to 'On what date did Indonesia proclaim its independence?' is: August 17, 1945.
+id-ID_051	id-ID	D	The answer to 'On what date did Indonesia proclaim its independence?' is: September 17, 1950.
+id-ID_052	id-ID	A	The answer to 'What is the term for the community's custom of returning to their hometowns to celebrate major holidays (such as Eid al-Fitr, Christmas, or Chinese New Year)?' is: Pulang Besar.
+id-ID_052	id-ID	B	The answer to "What is the term for the community's custom of returning to their hometowns to celebrate major holidays (such as Eid al-Fitr, Christmas, or Chinese New Year's Day)?" is: Mudik.
+id-ID_052	id-ID	C	The answer to "What is the term for the community custom of returning to their hometowns to celebrate major holidays (such as Eid al-Fitr, Christmas, or Chinese New Year's Day)?" is: Bedol Desa.
+id-ID_052	id-ID	D	The answer to "What is the term for the community's custom of returning to their hometowns to celebrate major holidays (such as Eid al-Fitr, Christmas, or Chinese New Year's Day)?" is: Arus Balik.
+id-ID_053	id-ID	A	The answer to 'What is the name of the minimarket commonly found in many places across Indonesia?' is: Betamart.
+id-ID_053	id-ID	B	The answer to 'What is the name of the minimarket commonly found in many places across Indonesia?' is: Toko Indonesia.
+id-ID_053	id-ID	C	The answer to "What is the name of the minimarket commonly found in many places across Indonesia?" is: Jakarta.
+id-ID_053	id-ID	D	The answer to 'What is the name of the minimarket commonly found in many places across Indonesia?' is: Indomaret.
+id-ID_054	id-ID	A	The answer to 'What is the name of the flag-raising event routinely attended by students or civil servants?' is: Gathering.
+id-ID_054	id-ID	B	The answer to 'What is the name of the flag-raising ceremony regularly attended by students or civil servants?' is: Ceremony.
+id-ID_054	id-ID	C	The answer to 'What is the name of the flag-raising event routinely attended by students or civil servants?' is: Graduation.
+id-ID_054	id-ID	D	The answer to 'What is the name of the flag-raising event routinely attended by students or civil servants?' is: Barisan.
+ko-KR_055	ko-KR	A	The answer to "What is the typical snack/food that comes to mind when you think of 'picnic' in Korea?" is: dim sum.
+ko-KR_055	ko-KR	B	The answer to "What is the typical snack/food that comes to mind when you think of 'picnic' in Korea?" is: kimbap.
+ko-KR_055	ko-KR	C	The answer to "What is the typical snack/food that comes to mind when you think of 'picnic' in Korea?" is: kalguksu.
+ko-KR_055	ko-KR	D	The answer to "What is the typical snack/food that comes to mind when you think of 'picnic' in Korea?" is: Dakdoritang.
+ko-KR_056	ko-KR	A	The answer to "Which of the following is NOT a representative traditional Korean game?" is: jump rope.
+ko-KR_056	ko-KR	B	The answer to "Which is NOT a representative traditional Korean game?" is: Sumo.
+ko-KR_056	ko-KR	C	The answer to "Which is NOT a representative traditional Korean game?" is: Ddakji.
+ko-KR_056	ko-KR	D	The answer to "Which is NOT a representative traditional Korean game?" is: Yutnori.
+ko-KR_057	ko-KR	A	The answer to "Who is the bad character in traditional Korean folktales?" is: Jiknyeo.
+ko-KR_057	ko-KR	B	The answer to "Who is the bad character in traditional Korean folktales?" is: Simcheong.
+ko-KR_057	ko-KR	C	The answer to "Who is the bad character in traditional Korean folktales?" is: Kongjwi.
+ko-KR_057	ko-KR	D	The answer to "Who is the bad character in traditional Korean folktales?" is: Nolbu.
+ko-KR_058	ko-KR	A	The answer to "What dish is famous as a traditional meal eaten on moving day in Korea?" is: Jajangmyeon.
+ko-KR_058	ko-KR	B	The answer to "What dish is famous as a traditional meal eaten on moving day in Korea?" is: Samgyetang.
+ko-KR_058	ko-KR	C	The answer to "What dish is famous as a traditional meal eaten on moving day in Korea?" is: sundubu-jjigae.
+ko-KR_058	ko-KR	D	The answer to "What dish is famous as a moving-day food in Korea?" is: Pasta.
+ko-KR_059	ko-KR	A	The answer to "Which area in Korea do people studying for the civil service exam primarily live in?" is: Hongdae.
+ko-KR_059	ko-KR	B	The answer to "Which area in Korea do people studying for the civil service exam primarily live in?" is: Myeongdong.
+ko-KR_059	ko-KR	C	The answer to "Which area in Korea do people who study for the civil service exam primarily live in?" is: Noryangjin.
+ko-KR_059	ko-KR	D	The answer to "Which area in Korea do people who study for the civil service exam primarily live in?" is: Hyehwa.
+el-GR_060	el-GR	A	1. Who is the Prime Minister of Greece, Kyriakos Mitsotakis?
+el-GR_060	el-GR	B	1. Who is the Prime Minister of Greece, Alexis Tsipras?
+el-GR_060	el-GR	C	1. Who is the Prime Minister of Greece, Antonis Samaras?
+el-GR_060	el-GR	D	1. Who is Greece's Prime Minister, Kostas Karamanlis?
+el-GR_061	el-GR	A	2. What is the most iconic landmark in the heart of Athens and serves as a symbol of Greece? The Parthenon
+el-GR_061	el-GR	B	2. What is the most iconic landmark in the heart of Athens and serves as a symbol of Greece? The White Tower
+el-GR_061	el-GR	C	2. What is the most iconic landmark in the heart of Athens and serves as a symbol of Greece? Syntagma Square
+el-GR_061	el-GR	D	2. What is the most iconic landmark in the heart of Athens and serves as a symbol of Greece? The Temple of Olympian Zeus
+el-GR_062	el-GR	A	3. What do we celebrate on October 28? Independence Day
+el-GR_062	el-GR	B	3. What do we celebrate on October 28th? Saint Demetrius Day
+el-GR_062	el-GR	C	3. What do we celebrate on October 28? The Polytechnic Anniversary
+el-GR_062	el-GR	D	3. What do we celebrate on October 28th? The Anniversary of "No"
+el-GR_063	el-GR	A	4. Who wrote the national anthem (Hymn to Liberty)? Giorgos Seferis
+el-GR_063	el-GR	B	4. Who wrote the national anthem (Hymn to Liberty)? Dionysios Solomos
+el-GR_063	el-GR	C	4. Who wrote the national anthem ("Hymn to Liberty")? Constantine Cavafy
+el-GR_063	el-GR	D	4. Who wrote the national anthem ("Hymn to Liberty")? Odysseas Elytis
+el-GR_064	el-GR	A	5. Which Greek city is also known as the “co-capital”? Patras
+el-GR_064	el-GR	B	5. Which Greek city is also called the “co-capital”? Thessaloniki
+el-GR_064	el-GR	C	5. Which Greek city is also known as the "co-capital"? Larissa
+el-GR_064	el-GR	D	5. Which Greek city is also known as the “co-capital”? Heraklion
+fa-IR_065	fa-IR	A	What is Iran's official religion? Christianity
+fa-IR_065	fa-IR	B	What is Iran's official religion? Judaism
+fa-IR_065	fa-IR	C	What is Iran's official religion? Islam
+fa-IR_065	fa-IR	D	What is Iran's official religion? Zoroastrianism
+fa-IR_066	fa-IR	A	Where is the capital of Iran? Mashhad
+fa-IR_066	fa-IR	B	Where is the capital of Iran? Tehran
+fa-IR_066	fa-IR	C	Where is the capital of Iran? Isfahan
+fa-IR_066	fa-IR	D	Where is the capital of Iran? Rasht
+fa-IR_067	fa-IR	A	What colors are on the flag of Iran? Green, blue, and white
+fa-IR_067	fa-IR	B	What colors are featured on the Iranian flag? Red, white, and yellow.
+fa-IR_067	fa-IR	C	What colors are featured on the Iranian flag? Blue, white, and black.
+fa-IR_067	fa-IR	D	What colors are featured on the Iranian flag? Green, white, and red.
+fa-IR_068	fa-IR	A	Which of these countries is a neighbor of Iran? Iraq
+fa-IR_068	fa-IR	B	Which of these countries is a neighbor of Iran? Kuwait
+fa-IR_068	fa-IR	C	Which of these countries is a neighbor of Iran? Uzbekistan
+fa-IR_068	fa-IR	D	Which of these countries is a neighbor of Iran? Russia
+fa-IR_069	fa-IR	A	What is the common language in Iran? Arabic
+fa-IR_069	fa-IR	B	What is the common language in Iran? Persian
+fa-IR_069	fa-IR	C	What is the common language in Iran? Turkish
+fa-IR_069	fa-IR	D	What is the common language in Iran? Kurdish
+ar-EG_070	ar-EG	A	Which of the following Egyptian governorates is known for mango cultivation? Ismailia
+ar-EG_070	ar-EG	B	Which of the following Egyptian governorates is known for mango cultivation? Al-Fayoum
+ar-EG_070	ar-EG	C	Which of the following Egyptian governorates is known for mango cultivation? Port Said
+ar-EG_070	ar-EG	D	Which of the following Egyptian governorates is known for mango cultivation? Tanta
+ar-EG_071	ar-EG	A	Who is the most famous Egyptian professional in the English Premier League? Ahmed Elmohamady
+ar-EG_071	ar-EG	B	Who is the most famous Egyptian professional in the English Premier League? Mohamed Shawky
+ar-EG_071	ar-EG	C	Who is the most famous Egyptian professional in the English Premier League? Mohamed Salah
+ar-EG_071	ar-EG	D	Who is the most famous Egyptian professional in the English Premier League? Ahmed Fathi
+ar-EG_072	ar-EG	A	What is the name of the Great Pyramid? Khufu
+ar-EG_072	ar-EG	B	What is the name of the Great Pyramid? Khafre
+ar-EG_072	ar-EG	C	What is the name of the Great Pyramid? Ra
+ar-EG_072	ar-EG	D	What is the name of the Great Pyramid? Menkaure
+ar-EG_073	ar-EG	A	What is the name of the most famous Cairo area known for selling souvenirs? Khan el-Khalili
+ar-EG_073	ar-EG	B	What is the name of the most famous Cairo area known for selling souvenirs? New Cairo
+ar-EG_073	ar-EG	C	What is the name of the most famous Cairo area known for selling souvenirs? New Cairo
+ar-EG_073	ar-EG	D	What is the name of the most famous Cairo area known for selling souvenirs? Tenth of Ramadan
+ar-EG_074	ar-EG	A	On which day of October did Egypt enter the most famous war in its modern history? The third
+ar-EG_074	ar-EG	B	On which day of October did Egypt enter the most famous war in its modern history? The fourth
+ar-EG_074	ar-EG	C	On which day of October did Egypt enter the most famous war in its modern history? The fifth
+ar-EG_074	ar-EG	D	On which day of October did Egypt enter the most famous war in its modern history? The sixth.
+ar-EG_075	ar-EG	A	What is the name of the ancient Egyptian language? Assyrian
+ar-EG_075	ar-EG	B	What is the name of the ancient Egyptian language? Hellenic
+ar-EG_075	ar-EG	C	What is the name of the ancient Egyptian language? Pharaonic
+ar-EG_075	ar-EG	D	What is the name of the ancient Egyptian language? Hieroglyphic
+ar-EG_076	ar-EG	A	What are the names of Bahrain's islands that overlook Egypt? Al-Abyad and Al-Ahmar
+ar-EG_076	ar-EG	B	What are the names of Bahrain's islands that overlook Egypt? Al-Abyad and Al-Asfar
+ar-EG_076	ar-EG	C	What are the names of the two Bahrains that Egypt overlooks? Yellow and Red
+ar-EG_076	ar-EG	D	What are the names of Bahrain's islands that overlook Egypt? Yellow and Green
+ar-MA_077	ar-MA	A	What is the capital of Morocco? Casablanca
+ar-MA_077	ar-MA	B	What is the capital of Morocco? Marrakech
+ar-MA_077	ar-MA	C	What is the capital of Morocco? Rabat
+ar-MA_077	ar-MA	D	What is the capital of Morocco? Fez
+ar-MA_078	ar-MA	A	2. What is the official currency of Morocco? The dinar
+ar-MA_078	ar-MA	B	2. What is the official currency of Morocco? The dirham
+ar-MA_078	ar-MA	C	2. What is the official currency of Morocco? The Real
+ar-MA_078	ar-MA	D	2. What is Morocco's official currency? The Euro
+ar-MA_079	ar-MA	A	"3. Which Moroccan city is famously known as the 'Blue City'? Tangier."
+ar-MA_079	ar-MA	B	"3. Which Moroccan city is famously known as the 'Blue City'? Chefchaouen"
+ar-MA_079	ar-MA	C	"3. Which Moroccan city is famously known as the 'Blue City'? Essaouira
+ar-MA_079	ar-MA	D	"3. Which Moroccan city is famously known as the 'Blue City'?" Agadir
+ar-MA_080	ar-MA	A	4. What is the most popular national drink in Morocco and is served as a symbol of hospitality? Coffee
+ar-MA_080	ar-MA	B	4. What is the most popular national drink in Morocco and is served as a symbol of hospitality? Orange juice
+ar-MA_080	ar-MA	C	4. What is the most popular national drink in Morocco, served as a symbol of hospitality? Mint tea
+ar-MA_080	ar-MA	D	4. What is the most popular national drink in Morocco, served as a symbol of hospitality? Almond milk
+ar-MA_081	ar-MA	A	5. What is the name of the main mountain range that stretches across Morocco? The Alps
+ar-MA_081	ar-MA	B	5. What is the name of the main mountain range that stretches across Morocco? The Pyrenees
+ar-MA_081	ar-MA	C	5. What is the name of the main mountain range that stretches across Morocco? The Atlas Mountains
+ar-MA_081	ar-MA	D	5. What is the name of the main mountain range that stretches across Morocco? The Caucasus Mountains
+ar-MA_082	ar-MA	A	6. Which of these dishes is a traditional Moroccan dish made from semolina and often served with meat and vegetables? Couscous
+ar-MA_082	ar-MA	B	6. Which of these dishes is a traditional Moroccan dish made from semolina and often served with meat and vegetables? The tagine
+ar-MA_082	ar-MA	C	6. Which of these dishes is a traditional Moroccan dish made from semolina and often served with meat and vegetables? Harira
+ar-MA_082	ar-MA	D	6. Which of these dishes is a traditional Moroccan dish made from semolina and often served with meat and vegetables? Bstilla
+ar-MA_083	ar-MA	A	7. What is the term used for the traditional market in Morocco? Kasbah
+ar-MA_083	ar-MA	B	7. What is the term used for the traditional market in Morocco? Riad
+ar-MA_083	ar-MA	C	7. What is the term used for the traditional market in Morocco? Souk
+ar-MA_083	ar-MA	D	7. What is the term used for the traditional market in Morocco? City
+ar-SA_084	ar-SA	A	1. Which region in Saudi Arabia is famous for mango cultivation during the summer? Taif
+ar-SA_084	ar-SA	B	1. Which region in Saudi Arabia is famous for mango cultivation during the summer? Abha
+ar-SA_084	ar-SA	C	1. Which region in Saudi Arabia is famous for mango cultivation during the summer? Tabuk
+ar-SA_084	ar-SA	D	1. Which region in Saudi Arabia is famous for mango cultivation during the summer? Jazan
+ar-SA_085	ar-SA	A	2- Who is the artist known as the "Artist of the Arabs" in the Kingdom of Saudi Arabia? Rashed Al-Majed
+ar-SA_085	ar-SA	B	2- Who is the artist known as the "Artist of the Arabs" in the Kingdom of Saudi Arabia? Mohammed Abdu
+ar-SA_085	ar-SA	C	2- Who is the artist known as the "Artist of the Arabs" in the Kingdom of Saudi Arabia? Rabeh Saqer
+ar-SA_085	ar-SA	D	2- Who is the artist known as the "Artist of the Arabs" in the Kingdom of Saudi Arabia? Talal Maddah
+ar-SA_086	ar-SA	A	3. What is the day on which the Kingdom of Saudi Arabia celebrates its founding (Saudi Founding Day)? February 22
+ar-SA_086	ar-SA	B	3. What is the day on which the Kingdom of Saudi Arabia celebrates its founding (Saudi Founding Day)? February 30
+ar-SA_086	ar-SA	C	3. What is the day on which the Kingdom of Saudi Arabia celebrates its founding (Saudi Founding Day)? September 23
+ar-SA_086	ar-SA	D	3. What is the day on which the Kingdom of Saudi Arabia celebrates its founding (Saudi Founding Day)? September 22
+ar-SA_087	ar-SA	A	4. What is the annual national day celebrated by the Kingdom of Saudi Arabia? February 22
+ar-SA_087	ar-SA	B	4. What is the annual national day celebrated by the Kingdom of Saudi Arabia? February 30
+ar-SA_087	ar-SA	C	4. What is the annual national day celebrated by the Kingdom of Saudi Arabia? September 23
+ar-SA_087	ar-SA	D	4. What is the annual national day celebrated by the Kingdom of Saudi Arabia? September 22
+ar-SA_088	ar-SA	A	5. Who is the current best Saudi player at Al-Hilal Saudi Club? Abdulrahman Ghareeb
+ar-SA_088	ar-SA	B	5. Who is the current best Saudi player at Saudi club Al-Hilal? Sultan Al-Ghanam
+ar-SA_088	ar-SA	C	5. Who is the current best Saudi player at Al-Hilal Saudi Club? Mohammed Al-Shalhoub
+ar-SA_088	ar-SA	D	5. Who is the current best Saudi player at Saudi club Al-Hilal? Salem Al-Dossari
+ar-SA_089	ar-SA	A	6. In which city is the historic Masmak Fortress located? The city
+ar-SA_089	ar-SA	B	6. In which city is the historic Masmak Fortress located? Riyadh
+ar-SA_089	ar-SA	C	6. In which city is the historic Al-Masmak Fortress located? Mecca
+ar-SA_089	ar-SA	D	6. In which city is the historic Masmak Fortress located? Dammam
+ar-SA_090	ar-SA	A	7. Which city is famous for rose cultivation and trade in the Kingdom of Saudi Arabia? Taif
+ar-SA_090	ar-SA	B	7. Which city is famous for rose cultivation and trade in the Kingdom of Saudi Arabia? Al-Baha
+ar-SA_090	ar-SA	C	7. Which city is famous for rose cultivation and trade in the Kingdom of Saudi Arabia? Abha
+ar-SA_090	ar-SA	D	7. Which city is famous for rose cultivation and trade in the Kingdom of Saudi Arabia? Al-Qassim
+en-AU_091	en-AU	A	The answer to 'What are 3 things every Australian town had when it was first formed?' is: church, post office, pub.
+en-AU_091	en-AU	B	The answer to 'What are 3 things every Australian town had when it was first formed?' is: church, dance hall, milkbar.
+en-AU_091	en-AU	C	The answer to 'What are 3 things every Australian town had when it was first formed?' is: milkbar, church, shopping centre.
+en-AU_091	en-AU	D	The answer to 'What are 3 things every Australian town had when it was first formed?' is: grocery store, gas station, pharmacy.
+en-AU_092	en-AU	A	The answer to 'What footy team would Bob barrack for if his grandfather lived in Fitzroy?' is: Brisbane Lions.
+en-AU_092	en-AU	B	The answer to 'What footy team would Bob barrack for if his grandfather lived in Fitzroy?' is: Essendon.
+en-AU_092	en-AU	C	The answer to 'What footy team would Bob barrack for if his grandfather lived in Fitzroy?' is: Carlton.
+en-AU_092	en-AU	D	The answer to 'What footy team would Bob barrack for if his grandfather lived in Fitzroy?' is: Bombers.
+en-AU_093	en-AU	A	The answer to 'Where did the first fleet arrive in Australia?' is: Botany Bay, NSW.
+en-AU_093	en-AU	B	The answer to 'Where did the first fleet arrive in Australia?' is: Queensland, Brisbane.
+en-AU_093	en-AU	C	The answer to 'Where did the first fleet arrive in Australia?' is: Melbourne, Victoria.
+en-AU_093	en-AU	D	The answer to 'Where did the first fleet arrive in Australia?' is: Perth, Western Australia.
+en-AU_094	en-AU	A	The answer to 'What is a common four-word Australian phrase?' is: """Don't worry about tomorrow!""".
+en-AU_094	en-AU	B	The answer to 'What is a common four-word Australian phrase?' is: """Handle your losses well""".
+en-AU_094	en-AU	C	The answer to 'What is a common four-word Australian phrase?' is: """She'll be right, mate""".
+en-AU_094	en-AU	D	The answer to 'What is a common four-word Australian phrase?' is: """Patty on the barbie""".
+en-AU_095	en-AU	A	The answer to 'What is the most famous Australian film?/ Film that introduced Australian culture to a general audience?' is: Australia.
+en-AU_095	en-AU	B	The answer to 'What is the most famous Australian film?/ Film that introduced Australian culture to a general audience?' is: Red Dog.
+en-AU_095	en-AU	C	The answer to 'What is the most famous Australian film?/ Film that introduced Australian culture to a general audience?' is: The Tracker.
+en-AU_095	en-AU	D	The answer to 'What is the most famous Australian film?/ Film that introduced Australian culture to a general audience?' is: Crocodile Dundee.
+en-AU_096	en-AU	A	The answer to 'Who was the most loved Australian prime minister?' is: Daniel Andres.
+en-AU_096	en-AU	B	The answer to 'Who was the most loved Australian prime minister?' is: John Howard.
+en-AU_096	en-AU	C	The answer to 'Who was the most loved Australian prime minister?' is: Tony Abbott.
+en-AU_096	en-AU	D	The answer to 'Who was the most loved Australian prime minister?' is: Bob Hawke.
+en-AU_097	en-AU	A	The answer to 'What do Australians need to do to prevent fires in summer?' is: Water their gardens.
+en-AU_097	en-AU	B	The answer to 'What do Australians need to do to prevent fires in summer?' is: Install fire management systems around their properties.
+en-AU_097	en-AU	C	The answer to 'What do Australians need to do to prevent fires in summer?' is: Controlled burning/ hazard reduction burning.
+en-AU_097	en-AU	D	The answer to 'What do Australians need to do to prevent fires in summer?' is: Plant more trees in their yards.
+eu-ES_098	eu-ES	A	The answer to 'What is the most typical traditional fast food of the Basque Country?' is: Cicchetti.
+eu-ES_098	eu-ES	B	The answer to 'What is the most typical traditional fast food of the Basque Country?' is: Sandwich.
+eu-ES_098	eu-ES	C	The answer to 'What is the most typical traditional fast food of the Basque Country?' is: Pintxo.
+eu-ES_098	eu-ES	D	The answer to 'What is the most typical traditional fast food of the Basque Country?' is: Kebab.
+eu-ES_099	eu-ES	A	The answer to 'What is the most popular traditional sport in the Basque Country?' is: Basque pelota.
+eu-ES_099	eu-ES	B	The answer to 'What is the most popular traditional sport in the Basque Country?' is: Football.
+eu-ES_099	eu-ES	C	The answer to 'What is the most popular traditional sport in the Basque Country?' is: Basketball.
+eu-ES_099	eu-ES	D	The answer to 'What is the most popular traditional sport in the Basque Country?' is: Hockey.
+eu-ES_100	eu-ES	A	The answer to 'What is the most followed sport in the Basque Country?' is: Basque pelota.
+eu-ES_100	eu-ES	B	The answer to 'What is the most followed sport in the Basque Country?' is: Football.
+eu-ES_100	eu-ES	C	The answer to 'What is the most followed sport in the Basque Country?' is: Basketball.
+eu-ES_100	eu-ES	D	The answer to 'Which is the most followed sport in the Basque Country?' is: Hockey.
+eu-ES_101	eu-ES	A	The answer to 'What is the most famous traditional dance of the Basque Country?' is: Flamenco.
+eu-ES_101	eu-ES	B	The answer to 'What is the most famous traditional dance of the Basque Country?' is: Sardana.
+eu-ES_101	eu-ES	C	The answer to 'What is the most famous traditional dance of the Basque Country?' is: Aurresku.
+eu-ES_101	eu-ES	D	The answer to 'What is the most famous traditional dance of the Basque Country?' is: Jota.
+eu-ES_102	eu-ES	A	The answer to 'Traditionally, what have men used to cover their heads in the Basque Country?' is: A hat.
+eu-ES_102	eu-ES	B	The answer to 'Traditionally, what have men used to cover their heads in the Basque Country?' is: Visor.
+eu-ES_102	eu-ES	C	The answer to 'Traditionally, what have men used to cover their heads in the Basque Country?' is: Zapia.
+eu-ES_102	eu-ES	D	The answer to 'Traditionally, what have men used to cover their heads in the Basque Country?' is: Hood.
+eu-ES_103	eu-ES	A	The answer to 'What is improvised poetry from the Basque Country called?' is: Txapela.
+eu-ES_103	eu-ES	B	The answer to 'What is improvised poetry from the Basque Country called?' is: Theater.
+eu-ES_103	eu-ES	C	The answer to 'What is the name of improvised poetry from the Basque Country?' is: Bertsolaritza.
+eu-ES_103	eu-ES	D	The answer to 'What is the name of improvised poetry from the Basque Country?' is: Maskarada.
+eu-ES_104	eu-ES	A	The answer to 'What is the most well-known newspaper written in the local language in the Basque Country?' is: Deia.
+eu-ES_104	eu-ES	B	The answer to 'What is the most well-known newspaper written in the local language in the Basque Country?' is: Berria.
+eu-ES_104	eu-ES	C	The answer to 'What is the most well-known newspaper written in the local language in the Basque Country?' is: Marca.
+eu-ES_104	eu-ES	D	The answer to 'What is the most well-known newspaper written in the local language in the Basque Country?' is: Diario Vasco.
+fr-FR_105	fr-FR	A	The answer to "What will I do with this lark?" is: I'll pluck it.
+fr-FR_105	fr-FR	B	The answer to "What will I do with this lark?" is: I'll whistle along with her in harmony.
+fr-FR_105	fr-FR	C	The answer to "What will I do with this lark?" is: I'll stroke its head.
+fr-FR_105	fr-FR	D	The answer to "What will I do with this lark?" is: I will free it from its cage.
+fr-FR_106	fr-FR	A	The answer to 'What color are all cats at night?' is: beige.
+fr-FR_106	fr-FR	B	The answer to "What color are all cats at night?" is: black.
+fr-FR_106	fr-FR	C	The answer to "What color are all cats at night?" is: gray.
+fr-FR_106	fr-FR	D	The answer to "What color are all cats at night?" is: white.
+fr-FR_107	fr-FR	A	The answer to "What is usually served with a beef rib?" is: Champagne.
+fr-FR_107	fr-FR	B	The answer to "What is usually served with a beef rib?" is: A dry white wine.
+fr-FR_107	fr-FR	C	The answer to "What is usually served with a beef rib?" is: A sweet white wine.
+fr-FR_107	fr-FR	D	The answer to "What is usually served with a beef rib?" is: A red wine.
+fr-FR_108	fr-FR	A	The answer to "What do ducks do first when they come out of the water?" is: They lay an egg.
+fr-FR_108	fr-FR	B	The answer to "What do ducks do first when they come out of the water?" is: They quack.
+fr-FR_108	fr-FR	C	The answer to "What do ducks do first when they get out of the water?" is: they shake their lower backs.
+fr-FR_108	fr-FR	D	The answer to "What do ducks do first when they come out of the water?" is: They peck at each other.
+fr-FR_109	fr-FR	A	The answer to "What is a chocolatine?" is: A chocolate with nougatine.
+fr-FR_109	fr-FR	B	The answer to "What is a chocolatine?" is: A small chocolate éclair topped with hazelnuts.
+fr-FR_109	fr-FR	C	The answer to "What is a chocolatine?" is: A mini chocolate cake served with coffee.
+fr-FR_109	fr-FR	D	The answer to "What is a chocolatine?" is: A pain au chocolat.
+fr-FR_110	fr-FR	A	That year, I was singing… For and only for you
+fr-FR_110	fr-FR	B	That year, I was singing… For the beautiful Mathilda
+fr-FR_110	fr-FR	C	That year, I was singing... For the first time.
+fr-FR_110	fr-FR	D	That year, I was singing... To forget the cold.
+fr-FR_111	fr-FR	A	The answer to "Which cheese is most often eaten warm with a salad?" is: Camembert.
+fr-FR_111	fr-FR	B	The answer to "Which cheese is most often eaten hot with a salad?" is: Reblochon.
+fr-FR_111	fr-FR	C	The answer to "Which cheese do we most often eat warm with a salad?" is: Goat cheese.
+fr-FR_111	fr-FR	D	The answer to "Which cheese is most often eaten warm with a salad?" is: Roquefort.
+fr-FR_112	fr-FR	A	The answer to "Which fruit changes its name when dried?" is: The apricot.
+fr-FR_112	fr-FR	B	The answer to "Which fruit changes its name when dried?" is: The plum.
+fr-FR_112	fr-FR	C	The answer to "Which fruit changes its name when dried?" is: The grape.
+fr-FR_112	fr-FR	D	The answer to "Which fruit changes its name when dried?" is: The tomato.
+ga-IE_113	ga-IE	A	Ireland is often referred to as: The Land of Saints and Scholars
+ga-IE_113	ga-IE	B	Ireland is often called: The Low Country
+ga-IE_113	ga-IE	C	Ireland is often referred to as: Land of Promise
+ga-IE_113	ga-IE	D	Ireland is often called: The Big Apple
+ga-IE_114	ga-IE	A	The answer to 'Who is famous for their role in the Battle of Clontarf?' is: King Henry VIII.
+ga-IE_114	ga-IE	B	The answer to 'Who is famous for their role in the Battle of Clontarf?' is: Brian Boru.
+ga-IE_114	ga-IE	C	The answer to 'Who is famous for their role in the Battle of Clontarf?' is: Michael Collins.
+ga-IE_114	ga-IE	D	The answer to 'Who is famous for their role in the Battle of Clontarf?' is: Brian O’Driscoll.
+ga-IE_115	ga-IE	A	The answer to 'Who is the famous Irish boxer?' is: Katie Taylor.
+ga-IE_115	ga-IE	B	The answer to 'Who is the famous Irish boxer?' is: Michelle O’Neill.
+ga-IE_115	ga-IE	C	The answer to 'Who is the famous Irish boxer?' is: Andrea Corr.
+ga-IE_115	ga-IE	D	The answer to 'Who is the famous Irish boxer?' is: Susan Jones.
+ga-IE_116	ga-IE	A	The answer to 'Which sport is associated with the "Six Nations"?' is: Soccer.
+ga-IE_116	ga-IE	B	The answer to 'Which sport is associated with the "Six Nations"?' is: Rugby.
+ga-IE_116	ga-IE	C	The answer to "Which sport is associated with the 'Six Nations'?" is: Swimming.
+ga-IE_116	ga-IE	D	The answer to "Which sport is associated with the 'Six Nations'?" is: Hurling.
+ga-IE_117	ga-IE	A	The answer to 'Which of the following Irish television channels is it?' is: RTÉ.
+ga-IE_117	ga-IE	B	The answer to 'Which of the following Irish television channels is it?' is: MTV.
+ga-IE_117	ga-IE	C	The answer to 'Which of the following Irish television channels is it?' is: Discovery Channel.
+ga-IE_117	ga-IE	D	The answer to 'Which of the following Irish television channels do you follow?' is: Nickelodeon.
+ga-IE_118	ga-IE	A	The answer to 'Which province is the capital of Ireland located in?' is: Munster.
+ga-IE_118	ga-IE	B	The answer to 'Which province is the capital of Ireland located in?' is: Leinster.
+ga-IE_118	ga-IE	C	The answer to 'Which province is the capital of Ireland located in?' is: Ulster.
+ga-IE_118	ga-IE	D	The answer to 'Which province is the capital of Ireland located in?' is: Connacht.
+ga-IE_119	ga-IE	A	The answer to 'Where are the All-Ireland finals usually played for hurling and Gaelic football?' is: Aviva Stadium.
+ga-IE_119	ga-IE	B	The answer to 'Where are the All-Ireland finals usually played for hurling and Gaelic football?' is: Páirc Uí Chaoimh.
+ga-IE_119	ga-IE	C	The answer to 'Where are the All-Ireland finals usually played for hurling and Gaelic football?' is: Croke Park.
+ga-IE_119	ga-IE	D	The answer to 'Where are the All-Ireland finals usually played for hurling and Gaelic football?' is: The RDS.
+ta-LK_120	ta-LK	A	The answer to "Who is the current president of Sri Lanka?" is: Ranil Wickremesinghe.
+ta-LK_120	ta-LK	B	The answer to "Who is the current president of Sri Lanka?" is: Anura Kumara Dissanayake.
+ta-LK_120	ta-LK	C	The answer to "Who is the current president of Sri Lanka?" is: Mahinda Rajapaksa.
+ta-LK_120	ta-LK	D	The answer to "Who is the current president of Sri Lanka?" is: Gotabaya Rajapaksa.
+ta-LK_121	ta-LK	A	The answer to "What is the tallest building in Sri Lanka?" is: Lotus Tower.
+ta-LK_121	ta-LK	B	The answer to "What is the tallest building in Sri Lanka?" is: One Galle Face.
+ta-LK_121	ta-LK	C	The answer to "What is the tallest building in Sri Lanka?" is: Kokavil Tower.
+ta-LK_121	ta-LK	D	The answer to "What is the tallest building in Sri Lanka?" is: World Trade Center Tower.
+ta-LK_122	ta-LK	A	The answer to "Which animal primarily participates in the Perahera festival?" is: An elephant.
+ta-LK_122	ta-LK	B	The answer to "Which animal primarily participates in the Perahera festival?" is: Horse.
+ta-LK_122	ta-LK	C	The answer to "Which animal primarily participates in the Perahera festival?" is: The peacock.
+ta-LK_122	ta-LK	D	The answer to "Which animal primarily participates in the Perahera festival?" is: Cow.
+ta-LK_123	ta-LK	A	The answer to "In which province of Sri Lanka is the famous Temple of the Tooth located?" is: the Central Province.
+ta-LK_123	ta-LK	B	The answer to "In which province of Sri Lanka is the famous Temple of the Tooth located?" is: Eastern Province.
+ta-LK_123	ta-LK	C	The answer to "In which province of Sri Lanka is the famous Temple of the Tooth located?" is: The Southern Province.
+ta-LK_123	ta-LK	D	The answer to "In which province of Sri Lanka is the famous Temple of the Tooth located?" is: Western Province.
+ta-LK_124	ta-LK	A	The answer to "Which animal is featured on the Sri Lankan national flag?" is: The lion.
+ta-LK_124	ta-LK	B	The answer to "Which animal is featured on the Sri Lankan national flag?" is: Tiger.
+ta-LK_124	ta-LK	C	The answer to "Which animal is featured on the Sri Lankan national flag?" is: Elephant.
+ta-LK_124	ta-LK	D	The answer to "Which animal is featured on the Sri Lankan national flag?" is: Peacock.
+ta-LK_125	ta-LK	A	The answer to "Which natural disaster caused extensive damage and loss of life in Sri Lanka in December 2004?" is: Cyclone.
+ta-LK_125	ta-LK	B	The answer to "What was the natural disaster that caused massive destruction and loss of life in Sri Lanka in December 2004?" is: Tsunami.
+ta-LK_125	ta-LK	C	The answer to "What was the natural disaster that caused extensive damage and loss of life in Sri Lanka in December 2004?" is: Wildfire.
+ta-LK_125	ta-LK	D	The answer to "What was the natural disaster in Sri Lanka in December 2004 that caused massive damage and loss of life?" is: Floods.
+ta-LK_126	ta-LK	A	The answer to "What is Sri Lanka's commercial capital?" is: Colombo.
+ta-LK_126	ta-LK	B	The answer to "What is Sri Lanka's commercial capital?" is: Kandy.
+ta-LK_126	ta-LK	C	The answer to "What is Sri Lanka's commercial capital?" is: Jaffna.
+ta-LK_126	ta-LK	D	The answer to "What is Sri Lanka's commercial capital?" is: Galle.
+tl-PH_127	tl-PH	A	The answer to "What is the traditional men's attire in the Philippines commonly worn during formal occasions?" is: Baro't Saya.
+tl-PH_127	tl-PH	B	The answer to "What is the traditional men's attire in the Philippines typically worn during formal occasions?" is: Kimona.
+tl-PH_127	tl-PH	C	The answer to "What is the traditional men's attire in the Philippines typically worn during formal occasions?" is: Barong Tagalog.
+tl-PH_127	tl-PH	D	The answer to "What is the traditional men's attire in the Philippines commonly worn during formal occasions?" is: Salakot.
+tl-PH_128	tl-PH	A	The answer to 'Which of the following is the main ingredient of adobo?' is: Ginger and coconut milk.
+tl-PH_128	tl-PH	B	The answer to 'Which of the following is the main ingredient of adobo?' is: Soy sauce and vinegar.
+tl-PH_128	tl-PH	C	The answer to 'Which of the following is the main ingredient of adobo?' is: Sugar and milk.
+tl-PH_128	tl-PH	D	The answer to "Which of the following is the main ingredient in adobo?" is: Shrimp paste and tomatoes.
+tl-PH_129	tl-PH	A	The answer to "What is the traditional dance that uses bamboo?" is: Pandanggo sa Ilaw.
+tl-PH_129	tl-PH	B	The answer to "What is the name of the traditional dance that uses bamboo?" is: Tinikling.
+tl-PH_129	tl-PH	C	The answer to "What is the traditional dance that uses bamboo?" is: Carinosa.
+tl-PH_129	tl-PH	D	The answer to "What is the traditional dance that uses bamboo?" is: Maglalatik.
+tl-PH_130	tl-PH	A	The answer to 'Who is known as the national hero of the Philippines?' is: Andres Bonifacio.
+tl-PH_130	tl-PH	B	The answer to 'Who is known as the national hero of the Philippines?' is: Emilio Aguinaldo.
+tl-PH_130	tl-PH	C	The answer to 'Who is known as the national hero of the Philippines?' is: Apolinario Mabini.
+tl-PH_130	tl-PH	D	The answer to 'Who is known as the national hero of the Philippines?' is: Jose Rizal.
+tl-PH_131	tl-PH	A	The answer to 'Which of the following is an example of a serenade?' is: Giving a gift every Christmas.
+tl-PH_131	tl-PH	B	The answer to "Which of the following is an example of a serenade?" is: Singing under the window of the person being courted.
+tl-PH_131	tl-PH	C	The answer to "Which of the following is an example of a serenade?" is: Singing karaoke with family.
+tl-PH_131	tl-PH	D	The answer to 'Which of the following is an example of a serenade?' is: Watching a movie every Saturday.
+tl-PH_132	tl-PH	A	The answer to "Which month is Language Month typically held in the Philippines?" is: June.
+tl-PH_132	tl-PH	B	The answer to "Which month is Language Month typically held in the Philippines?" is: August.
+tl-PH_132	tl-PH	C	The answer to 'Which month is Language Month typically held in the Philippines?' is: September.
+tl-PH_132	tl-PH	D	The answer to "Which month is Language Month typically held in the Philippines?" is: October.
+tl-PH_133	tl-PH	A	The answer to "What is the term for small local government units or communities in the Philippines headed by a captain?" is: Barangay.
+tl-PH_133	tl-PH	B	The answer to "What is the term for small local government units or communities in the Philippines headed by a captain?" is: Tribe.
+tl-PH_133	tl-PH	C	The answer to "What is the term for small local government units or communities in the Philippines headed by a captain?" is: Sultanate.
+tl-PH_133	tl-PH	D	The answer to "What is the term for small local government units or communities in the Philippines headed by a captain?" is: Province.
+tl-PH_134	tl-PH	A	The answer to "What is the Filipino tradition during Christmas Eve, where people attend mass from December 16 to 24?" is: Pabasa.
+tl-PH_134	tl-PH	B	The answer to "What is the Filipino tradition during Christmas Eve, where people attend mass from December 16 to 24?" is: Simbang Gabi.
+tl-PH_134	tl-PH	C	The answer to "What is the Filipino tradition during Christmas Eve, where people attend mass from December 16 to 24?" is: Misa de Gallo.
+tl-PH_134	tl-PH	D	The answer to "What is the Filipino tradition during Christmas Eve, where people attend mass from December 16 to 24?" is: Pasyon.
+bg-BG_135	bg-BG	A	The answer to "What is the capital of Bulgaria?" is: Plovdiv.
+bg-BG_135	bg-BG	B	The answer to "What is the capital of Bulgaria?" is: Varna.
+bg-BG_135	bg-BG	C	The answer to "What is the capital of Bulgaria?" is: Sofia.
+bg-BG_135	bg-BG	D	The answer to "What is the capital of Bulgaria?" is: Ruse.
+bg-BG_136	bg-BG	A	The answer to "What is Bulgaria's national holiday?" is: March 3.
+bg-BG_136	bg-BG	B	The answer to "What is Bulgaria's national holiday?" is: May 6.
+bg-BG_136	bg-BG	C	The answer to "What is Bulgaria's national holiday?" is: May 24.
+bg-BG_136	bg-BG	D	The answer to "What is Bulgaria's national holiday?" is: March 1.
+bg-BG_137	bg-BG	A	The answer to "What is the name of the Bulgarian alphabet?" is: Latin script.
+bg-BG_137	bg-BG	B	The answer to "What is the name of the Bulgarian alphabet?" is: Greek.
+bg-BG_137	bg-BG	C	The answer to "What is the name of the Bulgarian alphabet?" is: Glagolitsa.
+bg-BG_137	bg-BG	D	The answer to "What is the name of the Bulgarian alphabet?" is: Cyrillic.
+bg-BG_138	bg-BG	A	The answer to "Which Bulgarian revolutionary is known as the Apostle of Freedom?" is: Hristo Botev.
+bg-BG_138	bg-BG	B	The answer to "Which Bulgarian revolutionary is known as the Apostle of Freedom?" is: Georgi Benkovski.
+bg-BG_138	bg-BG	C	The answer to "Which Bulgarian revolutionary is known as the Apostle of Freedom?" is: Panayot Volov.
+bg-BG_138	bg-BG	D	The answer to "Which Bulgarian revolutionary is known as the Apostle of Freedom?" is: Vasil Levski.
+bg-BG_139	bg-BG	A	The answer to "What do we celebrate on May 24?" is: Easter.
+bg-BG_139	bg-BG	B	The answer to "What do we celebrate on May 24?" is: Independence Day.
+bg-BG_139	bg-BG	C	The answer to "What do we celebrate on May 24?" is: Labor Day.
+bg-BG_139	bg-BG	D	The answer to "What do we celebrate on May 24?" is: Day of Bulgarian Education and Culture, and of Slavic Literacy.
+bg-BG_140	bg-BG	A	The answer to "Who is the author of the novel 'Under the Yoke'?" is: Aleko Konstantinov.
+bg-BG_140	bg-BG	B	The answer to "Who is the author of the novel 'Under the Yoke'?" is: Pencho Slaveykov.
+bg-BG_140	bg-BG	C	The answer to "Who is the author of the novel 'Under the Yoke'?" is: Ivan Vazov.
+bg-BG_140	bg-BG	D	The answer to "Who is the author of the novel 'Under the Yoke'?" is: Peyo Yavorov.
+bg-BG_141	bg-BG	A	The answer to "Which dish is traditionally Bulgarian?" is: Pizza.
+bg-BG_141	bg-BG	B	The answer to "Which dish is traditionally Bulgarian?" is: Shopska salad.
+bg-BG_141	bg-BG	C	The answer to "Which dish is traditionally Bulgarian?" is: Sushi.
+bg-BG_141	bg-BG	D	The answer to "Which dish is traditionally Bulgarian?" is: Burger.
+ja-JP_142	ja-JP	A	What is Japan's current era name as of 2025? Showa
+ja-JP_142	ja-JP	B	What is Japan's current era name as of 2025? Reiwa
+ja-JP_142	ja-JP	C	What is Japan's current era name as of 2025? Heisei
+ja-JP_142	ja-JP	D	What is Japan's current era name as of 2025? Meiji
+ja-JP_143	ja-JP	A	Which one would you say is a typical Japanese breakfast? Pizza
+ja-JP_143	ja-JP	B	Which one would you say is the typical Japanese breakfast? Miso soup.
+ja-JP_143	ja-JP	C	Which one would you say is a typical Japanese breakfast? A baguette.
+ja-JP_143	ja-JP	D	Which one would you say is a typical Japanese breakfast? Ice cream.
+ja-JP_144	ja-JP	A	The answer to "Which is considered a symbol of Tokyo?" is: The Tower of the Sun.
+ja-JP_144	ja-JP	B	The answer to "Which is considered a symbol of Tokyo?" is: The radio tower.
+ja-JP_144	ja-JP	C	The answer to "Which is considered a symbol of Tokyo?" is: Nagoya Dome.
+ja-JP_144	ja-JP	D	The answer to "Which is Tokyo's symbol?" is: Tokyo Tower.
+ja-JP_145	ja-JP	A	Which is the smartest private university in Tokyo? Keio.
+ja-JP_145	ja-JP	B	Which is the smartest private university in Tokyo? Komaba
+ja-JP_145	ja-JP	C	Which is the smartest private university in Tokyo? Aoyama Gakuin.
+ja-JP_145	ja-JP	D	Which is the smartest private university in Tokyo? Chuo
+ja-JP_146	ja-JP	A	What sports drink are Japanese people familiar with? Pocari.
+ja-JP_146	ja-JP	B	What sports drink are Japanese people familiar with? Dr. Pepper
+ja-JP_146	ja-JP	C	What sports drink are Japanese people familiar with? Gatorade
+ja-JP_146	ja-JP	D	What sports drink are Japanese people familiar with? Lemonade
+ja-JP_147	ja-JP	A	When you think of Japanese tea? Green tea.
+ja-JP_147	ja-JP	B	When it comes to tea in Japan? Earl Grey.
+ja-JP_147	ja-JP	C	When it comes to Japanese tea—chamomile
+ja-JP_147	ja-JP	D	When it comes to Japanese tea? Jasmine tea.
+ja-JP_148	ja-JP	A	Rice balls—things you can't buy at convenience stores
+ja-JP_148	ja-JP	B	Things you can't buy at convenience stores: cigarettes
+ja-JP_148	ja-JP	C	Things you can't buy at convenience stores: Alcohol
+ja-JP_148	ja-JP	D	Things you can't buy at convenience stores: train tickets

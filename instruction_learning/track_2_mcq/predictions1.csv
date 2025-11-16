@@ -1,0 +1,149 @@
+id	prediction
+ms-SG_001	B C
+ms-SG_002	B
+ms-SG_003	A
+ms-SG_004	B
+ms-SG_005	C D
+ms-SG_006	B C D
+ms-SG_007	C
+ta-SG_008	B C
+ta-SG_009	B
+ta-SG_010	A B
+ta-SG_011	B
+ta-SG_012	C D
+ta-SG_013	B C D
+ta-SG_014	 
+zh-SG_015	B C
+zh-SG_016	B D
+zh-SG_017	A B
+zh-SG_018	B
+zh-SG_019	B C D
+zh-SG_020	B C D
+zh-SG_021	C
+es-EC_022	A C
+es-EC_023	A B C D
+es-EC_024	A B C D
+es-EC_025	A B C D
+es-EC_026	B C D
+es-EC_027	A B C
+es-EC_028	B C D
+es-EC_029	A B C D
+en-GB_030	B
+en-GB_031	C
+en-GB_032	A B C D
+en-GB_033	A
+en-GB_034	A
+zh-CN_035	D
+zh-CN_036	A B C
+zh-CN_037	B
+zh-CN_038	A B C D
+zh-CN_039	A B
+es-ES_040	C
+es-ES_041	A
+es-ES_042	A B
+es-ES_043	D
+es-ES_044	C
+es-MX_045	A B
+es-MX_046	C
+es-MX_047	D
+es-MX_048	B
+es-MX_049	C
+id-ID_050	A C
+id-ID_051	C
+id-ID_052	A B C D
+id-ID_053	A B D
+id-ID_054	A B C D
+ko-KR_055	B D
+ko-KR_056	A C D
+ko-KR_057	A C D
+ko-KR_058	A B C
+ko-KR_059	C D
+el-GR_060	A
+el-GR_061	A C D
+el-GR_062	A B C D
+el-GR_063	A B D
+el-GR_064	A B C D
+fa-IR_065	C
+fa-IR_066	B
+fa-IR_067	A B C D
+fa-IR_068	A
+fa-IR_069	B
+ar-EG_070	 
+ar-EG_071	A B C D
+ar-EG_072	A
+ar-EG_073	A
+ar-EG_074	A B C D
+ar-EG_075	C D
+ar-EG_076	C
+ar-MA_077	C
+ar-MA_078	B
+ar-MA_079	B
+ar-MA_080	A C
+ar-MA_081	C
+ar-MA_082	A B
+ar-MA_083	A C D
+ar-SA_084	A D
+ar-SA_085	A B C D
+ar-SA_086	A C D
+ar-SA_087	A C D
+ar-SA_088	A B C D
+ar-SA_089	A B
+ar-SA_090	A B D
+en-AU_091	A B C D
+en-AU_092	A B C D
+en-AU_093	A
+en-AU_094	C D
+en-AU_095	A B C D
+en-AU_096	D
+en-AU_097	B C
+eu-ES_098	C
+eu-ES_099	A
+eu-ES_100	A B
+eu-ES_101	C
+eu-ES_102	A B C D
+eu-ES_103	A C D
+eu-ES_104	A B D
+fr-FR_105	A B C D
+fr-FR_106	 
+fr-FR_107	B C D
+fr-FR_108	B C
+fr-FR_109	D
+fr-FR_110	A C D
+fr-FR_111	A B C
+fr-FR_112	A B C
+ga-IE_113	A
+ga-IE_114	B
+ga-IE_115	A
+ga-IE_116	B
+ga-IE_117	A
+ga-IE_118	B
+ga-IE_119	B C
+ta-LK_120	A D
+ta-LK_121	B
+ta-LK_122	A
+ta-LK_123	A
+ta-LK_124	A D
+ta-LK_125	A B
+ta-LK_126	A
+tl-PH_127	A C
+tl-PH_128	B D
+tl-PH_129	A B C D
+tl-PH_130	B C D
+tl-PH_131	B
+tl-PH_132	A B C D
+tl-PH_133	A B
+tl-PH_134	A B C
+bg-BG_135	C
+bg-BG_136	A B C
+bg-BG_137	D
+bg-BG_138	A B C D
+bg-BG_139	B D
+bg-BG_140	A B C D
+bg-BG_141	B
+ja-JP_142	B
+ja-JP_143	B
+ja-JP_144	D
+ja-JP_145	A B C D
+ja-JP_146	A
+ja-JP_147	A
+ja-JP_148	A B C D
