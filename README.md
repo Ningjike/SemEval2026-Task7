@@ -17,8 +17,8 @@
 | en-AU    | English (Australia)              | es-EC    | Spanish (Ecuador)                | eu-ES    | Basque (Basque Country, Spain)   | bg-BG    | Bulgarian (Bulgaria)             |
 | fr-FR    | French (France)                  | ga-IE    | Irish (Ireland)                  | sv-SE    | Swedish (Sweden)                 | cy-GB    | Welsh (Wales, UK)                |
 
- ### Instruction Learning
- ## google/gemma-3n-E4B-it
+ ## Instruction Learning
+ ### google/gemma-3n-E4B-it
  - 部分回答
 <img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/a2c4fdfb-a794-430c-949f-1a95e8057138" />
 
@@ -26,7 +26,7 @@
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/2ffca717-a961-4059-a458-fa01f294e1c2" />
 
 
- ## llama3
+ ### llama3
 - 先翻译为English，之后调用llama3模型处理，最后再翻译为指定语言
 - **翻译过程**：选择采用Qwen-MT-turbo进行翻译，可以在[官网](https://bailian.console.aliyun.com)进行查看API调用方法，具体代码可以参考translate_touyi.py
 - **模型调用过程**：选择采用Ollama调用本地部署模型，同时略修改了prompt，使其生成回答更加简练
@@ -50,6 +50,19 @@
   具体结果可以查看instruction_learning/track_1_saq/answers.tsv
 - 其中"ga"语言的回答未能正确生成，由于Qwen不支持‘ga’。除了Qwen-MT的API，可以尝试DeepL、Google等翻译器的API，由于笔者没有国外账户，无法使用，同时若可调用baidu企业至尊版通用翻译API也可完成翻译。
 - 之后可尝试直接调用大模型设计指令完成翻译，通过试验发现，Qwen-MT模型其实是能够完成翻译的（可实现翻译为英文），但由英文进行反向翻译时出现报错，或许可通过手动设置指令指示目标语言完成翻译。
+
+## Instrcution_tuning
+### 生成训练数据 见build_data.ipynb
+主要采取指令学习的方法，对于每个地区，固定询问问题，生成演示数据，演示数据中的问题为英文，共计1973条数据。
+观察生成数据可以发现，生成数据的质量较差，可能是由于选定生成数据答案的模型不太了解部分地区的日常知识，比如“What is the emergency telephone number for police in Algeria?”与“What number should I call for an ambulance in Algeria?”的回答相同，均为“17”。
+
+### 下游微调——简答题
+采用Lora微调，基础模型为Qwen3-4B，执行代码见track_1_instruction_tuning.ipynb
+模型部分结果展示：
+
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/aa73e8df-01bf-473f-9f3c-627ad547a510" />
+
+
 
 ---
 ## Track2:MCQ
@@ -80,6 +93,17 @@
 - 上下文学习：
   
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8ef0a9b0-d775-42bc-9291-88a2cf572234" />
+
+## Instrcution_tuning
+### 生成训练数据 见build_data.ipynb
+同Track1
+在训练过程中将生成数据问题与答案进行拼接，正确答案，answer设置为yes，错误答案设置为no
+### 下游微调——多选题
+采用Lora微调，基础模型为Qwen3-4B，执行代码见track_2_instruction_tuning.ipynb
+
+模型部分结果展示：
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/29221226-4e85-4daf-97c4-b775eb64c3db" />
 
  
   
