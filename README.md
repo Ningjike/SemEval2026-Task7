@@ -108,7 +108,7 @@
 
 
 ## FacebookAI/xlm-roberta-large
-由于 xlm-roberta-large 模型不是生成式模型，但支持 "fill-mask" pipeline, 故通过修改问题模板，将需要回答的部分作为 <mask>, 进而利用模型生成回答，最后将问题与回答保存在文件中。
+由于 xlm-roberta-large 模型不是生成式模型，但支持 "fill-mask" pipeline, 故通过修改问题模板，将需要回答的部分作为 mask, 进而利用模型生成回答，最后将问题与回答保存在文件中。
 
 根据生成的数据利用 Qwen-8B 进行指令微调：
 - track1：
@@ -118,7 +118,11 @@
 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/769e1b45-f38e-48de-b405-b9c8c1a9c8e5" />
 
-
+## 训练数据 BLEnd
+由于BLEnd
+- track1
+  
+- track2
 
  
   
