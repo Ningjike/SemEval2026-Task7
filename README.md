@@ -19,13 +19,6 @@
 
  ## Instruction Learning
  ### google/gemma-3n-E4B-it
- - 部分回答
-<img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/a2c4fdfb-a794-430c-949f-1a95e8057138" />
-
-- 修改prompt后，要求回答精炼：
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/2ffca717-a961-4059-a458-fa01f294e1c2" />
-
-
  ### llama3
 - 先翻译为English，之后调用llama3模型处理，最后再翻译为指定语言
 - **翻译过程**：选择采用Qwen-MT-turbo进行翻译，可以在[官网](https://bailian.console.aliyun.com)进行查看API调用方法，具体代码可以参考translate_touyi.py
@@ -77,14 +70,6 @@
 ## FacebookAI/xlm-roberta-large
 由于 xlm-roberta-large 模型不是生成式模型，但支持 "fill-mask" pipeline, 故通过修改问题模板，将需要回答的部分作为 mask, 进而利用模型生成回答，最后将问题与回答保存在文件中。
 
-根据生成的数据利用 Qwen-8B 进行指令微调：
-- track1：
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/7e5344aa-edaa-4ac1-961e-934b5cf9cd7f" />
-
-- track2：
-
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/769e1b45-f38e-48de-b405-b9c8c1a9c8e5" />
-
 ## 综合模型
 根据development 阶段在trail data上的各个模型进行指令学习的得分如下：
 | models  | lamma                 | qwen                   | deepseek               | gpt-5                  | gemini                 | 综合                    |
@@ -113,6 +98,7 @@
 | tl-PH   | 50.0                  | 75.0                   | 87.5                   | 75.0                   | 75.0                   | 87.5                  |
 | zh-CN   | 60.0                  | 100.0                  | 80.0                   | 100.0                  | 100.0                  | 100.0                 |
 | zh-SG   | 42.857142857142854    | 57.142857142857146     | 57.142857142857146     | 42.857142857142854     | 57.142857142857146     | 57.142857142857146    |
+
 确定国家代码到最佳模型的映射：
 COUNTRY_CODE_BEST_MODEL = {
     'EG': 'gemini',  # 埃及
